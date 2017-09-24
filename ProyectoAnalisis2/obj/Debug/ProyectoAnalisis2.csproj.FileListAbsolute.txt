@@ -1,0 +1,14 @@
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\bin\Debug\ProyectoAnalisis2.exe.config
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\bin\Debug\ProyectoAnalisis2.exe
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\bin\Debug\ProyectoAnalisis2.pdb
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.csprojResolveAssemblyReference.cache
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Form1.resources
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Principal.resources
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Properties.Resources.resources
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.RegistroAmbos.resources
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.csproj.GenerateResource.Cache
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.exe
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.pdb
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Reservacion.resources
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Pagos.resources
+D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.ServiciosVarios.resources
