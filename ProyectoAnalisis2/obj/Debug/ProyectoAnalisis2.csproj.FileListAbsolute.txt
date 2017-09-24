@@ -12,17 +12,3 @@ D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\Proyecto
 D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Reservacion.resources
 D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Pagos.resources
 D:\SegundoSemestre2017\COMPI2\PLANTILLAS\PLANTILLA_C#\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.ServiciosVarios.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\bin\Debug\ProyectoAnalisis2.exe.config
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.exe
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.pdb
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\bin\Debug\ProyectoAnalisis2.exe
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\bin\Debug\ProyectoAnalisis2.pdb
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.csprojResolveAssemblyReference.cache
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Form1.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Pagos.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Principal.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Properties.Resources.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.RegistroAmbos.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.Reservacion.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.ServiciosVarios.resources
-C:\Users\gojor\Downloads\Proyecto2Analisis2-master\Proyecto2Analisis2-master\ProyectoAnalisis2\ProyectoAnalisis2\ProyectoAnalisis2\obj\Debug\ProyectoAnalisis2.csproj.GenerateResource.Cache

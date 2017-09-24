@@ -12,6 +12,8 @@ namespace ProyectoAnalisis2
 {
     public partial class Form1 : Form
     {
+
+        
         public Form1()
         {
             InitializeComponent();
@@ -59,7 +61,7 @@ namespace ProyectoAnalisis2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            RegistroAmbos ra = new RegistroAmbos();
+            RegistroAmbos ra = RegistroAmbos.obtenerIns();
             ra.Show();
         }
     }

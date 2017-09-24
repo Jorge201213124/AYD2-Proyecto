@@ -12,7 +12,9 @@ namespace ProyectoAnalisis2
 {
     public partial class RegistroAmbos : Form
     {
-        public RegistroAmbos()
+
+        public static RegistroAmbos inst = null;
+        private RegistroAmbos()
         {
             InitializeComponent();
         }
@@ -47,5 +49,15 @@ namespace ProyectoAnalisis2
                 checkBox1.Enabled = false;
             }
         }
+
+        public static RegistroAmbos obtenerIns() { 
+        
+            if((inst == null)||(inst.IsDisposed)){
+                inst = new RegistroAmbos();
+            }
+
+            return inst;
+        }
+
     }
 }
